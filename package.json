@@ -1,0 +1,16 @@
+{
+  "name": "epub-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@fastify/multipart": "^8.0.0",
+    "fastify": "^4.24.3"
+  },
+  "devDependencies": {
+    "pino-pretty": "^10.2.3"
+  }
+}
